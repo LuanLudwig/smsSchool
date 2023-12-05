@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 350px;
+  
+    background-color: #fff;
+    box-shadow: 0px 0px 4px -1px #216efd;
+    border: 2px solid #216efd;
+  }
+  
+  .container h1 {
+    font-size: 1em;
+    color: #444;
+  }
+  
+  .container span {
+    font-size: 1.8em;
+    font-weight: 600;
+  }

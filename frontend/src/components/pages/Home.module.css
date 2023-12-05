@@ -1,0 +1,19 @@
+.container {
+    max-width: 450px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner h1 {
+    color: #16479d;
+    font-size: bold;
+}
+
+.banner p {
+    color: #16479d;
+}
